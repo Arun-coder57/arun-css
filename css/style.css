@@ -1,0 +1,29 @@
+
+/**** tag ****/
+body{
+  background-color:#dbf6e9;
+}
+h1{
+  color:#52057b;
+  text-shadow:4px 4px 3px #16a596;
+}
+h3{
+  color:#52057b;
+}
+hr{
+  border-style:none;
+  border-style: dotted none none none;
+  border-width: 3px;
+  border-top-color:#898b8a;
+  width:5%;
+}
+
+
+
+/* class */
+.image{
+  border-radius: 110px
+}
+.head{
+  text-decoration: underline;
+}
